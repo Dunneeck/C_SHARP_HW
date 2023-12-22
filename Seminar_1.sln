@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seminar_2", "Seminar_2\Semi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seminar_3", "Seminar_3\Seminar_3.csproj", "{90648E0C-2B60-405B-AAA1-3385FAF628D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seminar_4", "Seminar_4\Seminar_4.csproj", "{8349E3A7-7F8F-4464-9D55-E201D7FCD066}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seminar_4", "Seminar_4\Seminar_4.csproj", "{8349E3A7-7F8F-4464-9D55-E201D7FCD066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seminar_5", "Seminar_5\Seminar_5.csproj", "{DA23F35F-3E40-4A2F-AED4-DF42401830F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8349E3A7-7F8F-4464-9D55-E201D7FCD066}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8349E3A7-7F8F-4464-9D55-E201D7FCD066}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8349E3A7-7F8F-4464-9D55-E201D7FCD066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA23F35F-3E40-4A2F-AED4-DF42401830F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA23F35F-3E40-4A2F-AED4-DF42401830F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA23F35F-3E40-4A2F-AED4-DF42401830F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA23F35F-3E40-4A2F-AED4-DF42401830F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
